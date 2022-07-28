@@ -1,0 +1,5 @@
+name: test1
+description: ''
+runs:
+  using: node12
+  main: dist/index.js
